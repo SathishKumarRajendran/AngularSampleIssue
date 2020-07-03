@@ -1,0 +1,31 @@
+<div id="action-description">
+    <p>This sample demonstrates the grouping and icons supports of the DropDownList. Click the DropDownList element and select an item from the categorized list/icons list.</p>
+</div>
+
+<div class="control-section">
+    <div class="content-wrapper">
+        <div id='group' class='col-lg-6'>
+            <div class="content">
+                <h4>Grouping</h4>
+                <ejs-dropdownlist #grouping id='vegetables' [dataSource]='vegetableData' [placeholder]='groupWaterMark' [fields]='groupFields' [popupHeight]='height'></ejs-dropdownlist>
+            </div>
+        </div>
+        <div id='icon' class='col-lg-6'>
+            <div class="content">
+                <h4> Icons</h4>
+                <ejs-dropdownlist #icon id='icons' [dataSource]='socialMediaData' [placeholder]='iconWaterMark' [fields]='iconFields' [popupHeight]='height'></ejs-dropdownlist>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="description">
+    <p>The DropDownList allows to group the relevant items under a corresponding category by mapping the <code>groupBy</code> field, and allows to load the list items with icons.</p>
+
+    <p>The grouping sample illustrates how the vegetables are grouped based on its category.</p>
+
+    <p>The 2nd DropDownList is populated with icons that is rendered by mapping the <code>iconCss</code> field.</p>
+    <p>More information on the grouping feature configuration can be found in the
+        <a href="http://ej2.syncfusion.com/angular/documentation/drop-down-list/grouping.html" target="_blank"> documentation section</a>.
+    </p>
+</div>

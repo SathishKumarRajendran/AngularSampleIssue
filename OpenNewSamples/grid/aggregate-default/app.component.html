@@ -1,0 +1,73 @@
+<div style="padding-left: 20px;">
+        <p>This sample demonstrates aggregate functionality of the Grid. In this sample, the aggregate value for the column “Freight” is displayed in column footer.</p><div class="control-section">
+    <ejs-grid [dataSource]="data" [allowPaging]="true" [pageSettings]='pageOption'>
+        <e-columns>
+            <e-column field='CustomerName' headerText='Customer Name' width='150'></e-column>
+            <e-column field='Freight' headerText='Freight' width='150' format='C2' textAlign='Right'></e-column>
+            <e-column field='OrderDate' headerText='Order Date' width='150' format="yMd" textAlign='Right'></e-column>
+            <e-column field='ShipCountry' headerText='Ship Country' width='150'></e-column>
+        </e-columns>
+        <e-aggregates>
+            <e-aggregate>
+                <e-columns>
+                    <e-column type="Sum" field="Freight" format="C2">
+                        <ng-template #footerTemplate let-data>Sum: {{data.Sum}}</ng-template>
+                    </e-column>
+                </e-columns>
+            </e-aggregate>
+            <e-aggregate>
+                <e-columns>
+                    <e-column type="Average" field="Freight" format="C2">
+                        <ng-template #footerTemplate let-data>Average: {{data.Average}}</ng-template>
+                    </e-column>
+                </e-columns>
+            </e-aggregate>
+        </e-aggregates>
+    </ejs-grid>
+    <div id="description-section">Description</div>
+<div id="description">
+        <p>The Grid supports aggregates which will be displayed at the footer, group footer and group caption of the Grid. The
+            aggregate configurations can be provided by the <code><a target="_blank" class="code"
+        href="http://ej2.syncfusion.com/documentation/grid/api-grid.html">
+        aggregates
+        </a></code> property.</p>
+        <p>The built-in aggregates are,</p>
+        <ul>
+            <li><code>Sum</code></li>
+            <li><code>Average</code></li>
+            <li><code>Min</code></li>
+            <li><code>Max</code></li>
+            <li><code>Count</code></li>
+            <li><code>TrueCount</code></li>
+            <li><code>FalseCount</code></li>
+            <li><code>Custom</code> - Requires the <code><a target="_blank" class="code"
+        href="http://ej2.syncfusion.com/documentation/grid/api-aggregateColumn.html#customaggregate">
+        customAggregate
+        </a></code> property to perform aggregation. The custom aggregate value can be accessed inside template using the
+                key <code>custom</code></li>
+        </ul>
+        <p>
+            In this demo, the <code><a target="_blank" class="code"
+        href="http://ej2.syncfusion.com/documentation/grid/api-aggregateColumn.html#footertemplate">
+        footerTemplate</a></code> property is used to display four different aggregates in the Grid footer. In the first
+            aggregate row, the <code>sum</code> aggregate type is used by setting the <code><a target="_blank" class="code"
+        href="http://ej2.syncfusion.com/documentation/grid/api-aggregateColumn.html#type">
+        type</a></code> and <code><a target="_blank" class="code"
+ href="http://ej2.syncfusion.com/documentation/grid/api-aggregateColumn.html#field">
+        field</a></code> property as <strong><i>Freight</i></strong> which will be used to perform the aggregation. The
+            aggregate value is accessed inside the <code><a target="_blank" class="code"
+        href="http://ej2.syncfusion.com/documentation/grid/api-aggregateColumn.html#footertemplate">
+        footerTemplate</a></code> using its <code><a target="_blank" class="code"
+        href="http://ej2.syncfusion.com/documentation/grid/api-aggregateColumn.html#type">
+        type</a></code> name (<code>sum</code>). The aggregate value will be formatted based on its <code><a target="_blank" class="code"
+ href="http://ej2.syncfusion.com/documentation/grid/api-aggregateColumn.html#format">
+        format</a></code> value(<strong><i>C2</i></strong>) before being displayed.
+        </p>
+        
+        <p style="font-weight: 500">Injecting Module:</p>
+        <p>
+            Grid component features are segregated into individual feature-wise modules. To use aggregate feature, we need to inject
+            <code>AggregateService</code> into the <code>@NgModule.providers</code> section.
+        </p>
+    </div>
+</div></div>

@@ -1,0 +1,30 @@
+<div style="padding-left: 20px;">
+        <p>
+            This sample demonstrates the Grid searching feature. In this sample, use the search box from toolbar to search Grid records.
+        </p><div class="control-section">
+    <ejs-grid #grid [dataSource]='data' allowPaging="true" [pageSettings]='pageSettings' [toolbar]='toolbar'>
+        <e-columns>
+            <e-column field='CategoryName' headerText='Category Name' width='150'></e-column>
+            <e-column field='ProductName' headerText='Product Name' width='150'></e-column>
+            <e-column field='QuantityPerUnit' headerText='Quantity per unit' width='180' textAlign='Right'></e-column>
+            <e-column field='UnitsInStock' headerText='Units In Stock' width='150' textAlign='Right'></e-column>
+        </e-columns>
+    </ejs-grid>
+
+    
+    <div id="description-section">Description</div>
+<div id="description">
+        <p>The Grid has an option to search its content using the  <code><a target="_blank" class="code"
+        href="http://ej2.syncfusion.com/angular/documentation/grid/api-gridComponent.html#search">search
+        </a></code> method with search key as the parameter.</p>
+        <br>
+        <p>In this demo, type in the search box to perform search operation. We have used <code><a target="_blank" class="code"
+        href="http://ej2.syncfusion.com/angular/documentation/grid/api-gridComponent.html#search">search
+        </a></code> method 
+        in the keyup event of the search box to initiate search.</p>
+        <p>
+            More information on the searching configuration can be found in this 
+            <a target="_blank" href="https://ej2.syncfusion.com/angular/documentation/grid/searching.html#search">documentation section</a>.
+        </p>
+    </div>
+</div></div>

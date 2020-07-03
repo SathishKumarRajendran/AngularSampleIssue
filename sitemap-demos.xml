@@ -1,0 +1,4190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ 
+  <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/accordion/ajax/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/accordion/default/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/accordion/icon/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/auto-complete/custom-filtering/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/auto-complete/data-binding/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/auto-complete/default/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/auto-complete/diacritics-filtering/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/auto-complete/grouping-icon/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/auto-complete/highlight/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/auto-complete/reactive-form/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/auto-complete/template-driven/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/auto-complete/template/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/avatar/badge/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/avatar/card/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/avatar/default/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/avatar/list-view/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/avatar/types/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/badge/accordion/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/badge/default/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/badge/list-view/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/badge/notification/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/badge/toolbar/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/badge/types/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/barcode/codabar/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/barcode/code128/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/barcode/code128A/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/barcode/code128B/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/barcode/code128C/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/barcode/code32/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/barcode/code39/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/barcode/code39Extd/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/barcode/code93/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/barcode/datamatrix/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/barcode/default-functionalities/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/barcode/ean13/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/barcode/qrCode/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/barcode/upcA/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/barcode/upcE/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/bullet-chart/bar-customization/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/bullet-chart/customization/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/bullet-chart/default/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/bullet-chart/multiple-data/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/bullet-chart/right-to-left/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/bullet-chart/tooltip/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/button/button-group/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/button/checkbox/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/button/default/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/button/dropdown-button/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/button/progress-button/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/button/radio-button/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/button/split-button/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/button/switch/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/calendar/date-range/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/calendar/default/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/calendar/disabled/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/calendar/islamic-calendar/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/calendar/month-picker/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/calendar/multi-select/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/calendar/special-dates/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/card/basic/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/card/flip/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/card/horizontal/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/card/reveal/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/card/swipeable/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/card/tile/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/card/vertical/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/accumulation-distribution-indicator/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/area-empty/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/area-segments/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/area/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/average-true-range-indicator/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/axes-crossing/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/bar/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/bollinger/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/box-and-whisker/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/bubble/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/candle-stick/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/category/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/chart-performance/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/column-placement/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/column/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/cross-hair/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/dashed-line/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/data-editing/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/data-label-template/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/date-time-category/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/date-time/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/default-donut/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/default-pie/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/donut/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/drill-down-pie/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/empty-point/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/error-bar/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/exponential-moving-average-indicator/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/export/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/funnel/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/grouping/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/hilo-open-close/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/hilo/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/histogram/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/indexed-axis/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/inversed/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/lazy-loading/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/line-multi-color/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/line-segments/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/line/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/local-data/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/logarithmic-scale/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/marker-chart/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/momentum/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/moving-average-convergence-divergence-indicator/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/multi-level-label/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/multi-series-chart/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/multiple-axis/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/numeric/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/pare-to/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/pie-annotation/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/pie-empty-point/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/pie-radius/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/polar-area/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/polar-column/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/polar-line/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/polar-range-column/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/polar-scatter/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/polar-spline/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/polar-stacking-area/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/polar-stacking-column/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/print/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/pyramid/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/range-area/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/range-bar/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/range-column/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/range-selection/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/relative-strength-index-indicator/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/remote-data/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/rounded-column/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/scatter-plot/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/selection/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/semi-pie/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/simple-moving-average-indicator/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/smart-axis-labels/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/smart-labels/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/sorting/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/spline-area/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/spline-inversed/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/spline/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/stacked-area-percent/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/stacked-area/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/stacked-bar-percent/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/stacked-bar/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/stacked-column-percent/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/stacked-column/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/stacked-line-percent/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/stacked-line/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/step-area/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/step-line/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/stochastic/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/strip-line-recurrence/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/strip-line/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/tooltip-template/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/tornado/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/trackball/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/trend-lines/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/triangular-moving-average-indicator/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/vertical/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/waterfall/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chart/zooming/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chips/chips-api/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/chips/default/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/circular-gauge/annotation/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/circular-gauge/apple-watch-rings/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/circular-gauge/arc-gauge/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/circular-gauge/customization/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/circular-gauge/default/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/circular-gauge/direction/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/circular-gauge/export/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/circular-gauge/gradient-color/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/circular-gauge/label/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/circular-gauge/legend/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/circular-gauge/multiple-axis/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/circular-gauge/pointer-image/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/circular-gauge/pointers/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/circular-gauge/range/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/circular-gauge/sample-data/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/circular-gauge/semi-circular-gauge/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/circular-gauge/speedometer/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/circular-gauge/tooltip/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/circular-gauge/user-interactions/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/color-picker/api/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/color-picker/custom/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/color-picker/default/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/color-picker/inline/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/combo-box/cascading/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/combo-box/custom-value/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/combo-box/data-binding/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/combo-box/default/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/combo-box/diacritics-filtering/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/combo-box/filtering/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/combo-box/grouping-icon/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/combo-box/reactive-form/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/combo-box/template-driven/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/combo-box/template/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/context-menu/default/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/dashboard-layout/analytics-dashboard/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/dashboard-layout/default/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/dashboard-layout/predefined-layouts/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/dashboard-layout/properties/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/datepicker/date-format/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/datepicker/date-range/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/datepicker/default/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/datepicker/disabled/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/datepicker/month-picker/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/datepicker/reactiveform/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/datepicker/special-dates/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/daterangepicker/date-format/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/daterangepicker/date-range/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/daterangepicker/day-span/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/daterangepicker/default/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/daterangepicker/month-range-picker/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/daterangepicker/presets/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/daterangepicker/reactiveform/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/datetimepicker/date-time-format/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/datetimepicker/date-time-range/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/datetimepicker/default/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/datetimepicker/disabled/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/datetimepicker/reactiveform/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/datetimepicker/special-dates/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/diagram/annotations/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/diagram/bpmn-editor/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/diagram/complex-hierarchical-tree/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/diagram/connectors/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/diagram/crud/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/diagram/custom-shapes/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/diagram/default-functionalities/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/diagram/diagram-events/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/diagram/drawing-tool/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/diagram/fishbone-diagram/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/diagram/flow-execution/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/diagram/hierarchical-tree/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/diagram/history-manager/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/diagram/key-board-functions/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/diagram/local-data/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/diagram/logic-circuit/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/diagram/mind-map/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/diagram/network-diagram/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/diagram/nodes/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/diagram/organization-chart/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/diagram/overview/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/diagram/pert-chart/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/diagram/ports/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/diagram/print-export/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/diagram/quick-commands/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/diagram/radial-tree/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/diagram/remote-data/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/diagram/right-to-left-tree/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/diagram/serialization/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/diagram/shapes/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/diagram/swimlane/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/diagram/symbol-palette/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/diagram/symmetric-layout/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/diagram/tooltip/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/diagram/uml-activity/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/diagram/uml-Class-diagram/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/diagram/venn-diagram/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/dialog/animation/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/dialog/custom-dialog/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/dialog/default/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/dialog/dialog-contents-via-ajax/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/dialog/draggable/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/dialog/modal-dialog/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/dialog/multiple-components/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/dialog/multiple-dialogs/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/dialog/position/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/dialog/resizable/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/dialog/template/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/document-editor/auto-save/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/document-editor/bullets-numbering/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/document-editor/character-formatting/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/document-editor/chart/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/document-editor/custom-context-menu/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/document-editor/default/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/document-editor/document-protection/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/document-editor/headers-footers/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/document-editor/links-bookmarks/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/document-editor/paragraph-formatting/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/document-editor/print/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/document-editor/right-to-left/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/document-editor/section-formatting/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/document-editor/table-formatting/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/document-editor/table-of-contents/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/drop-down-list/cascading/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/drop-down-list/data-binding/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/drop-down-list/default/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/drop-down-list/diacritics-filtering/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/drop-down-list/filtering/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/drop-down-list/grouping-icon/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/drop-down-list/inline/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/drop-down-list/reactive-form/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/drop-down-list/template-driven/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/drop-down-list/template/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/drop-down-tree/checkbox/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/drop-down-tree/default/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/drop-down-tree/filtering/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/drop-down-tree/icons/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/drop-down-tree/local-data/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/drop-down-tree/multiple-selection/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/drop-down-tree/remote-data/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/drop-down-tree/template/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/file-manager/amazon-s3-file-provider/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/file-manager/azure-service/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/file-manager/custom/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/file-manager/default/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/file-manager/drag-drop/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/file-manager/file-upload/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/file-manager/firebase/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/file-manager/ftp-file-provider/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/file-manager/ibm-cos-node-file-provider/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/file-manager/nodejs-file-provider/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/file-manager/overview/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/file-manager/sql-server-provider/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/form-validator/default/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/gantt/baseline/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/gantt/column-menu/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/gantt/column-template/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/gantt/context-menu/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/gantt/default/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/gantt/drag-and-drop/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/gantt/editing/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/gantt/event-markers/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/gantt/events/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/gantt/exporting/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/gantt/filtering/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/gantt/grid-lines/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/gantt/header-template/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/gantt/holidays/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/gantt/indicators/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/gantt/keyboard-interactions/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/gantt/local-data/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/gantt/remote-data/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/gantt/reorder/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/gantt/resize/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/gantt/resource-multi-taskbar/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/gantt/resource-view/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/gantt/resources/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/gantt/selection/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/gantt/self-reference-data/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/gantt/show-hide-column/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/gantt/sorting-api/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/gantt/sorting/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/gantt/taskbar-template/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/gantt/tasklabel-template/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/gantt/taskMode/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/gantt/timeline/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/gantt/toolbar-template/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/gantt/tooltip-template/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/gantt/unscheduled-task/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/gantt/work-week/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/gantt/working-time-range/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/gantt/zooming/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/grid/advanced-exporting/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/grid/aggregate-default/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/grid/aggregate-group/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/grid/async-pipe/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/grid/auto-wrap/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/grid/batch-editing/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/grid/checkbox-selection/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/grid/clipboard/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/grid/column-chooser/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/grid/column-menu/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/grid/column-resizing/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/grid/column-spanning/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/grid/column-template/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/grid/command-column/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/grid/context-menu/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/grid/default-exporting/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/grid/default/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/grid/detail-template/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/grid/dialog-editing/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/grid/dialog-reactive-form/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/grid/drag-and-drop/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/grid/drag-drop-within-grid/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/grid/filter-menu/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/grid/filtering/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/grid/foreign-key/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/grid/frozen-rows/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/grid/grid-lines/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/grid/grouping/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/grid/hierarchy/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/grid/infinite-scrolling/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/grid/local-data/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/grid/master-detail/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/grid/master-details-export/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/grid/normal-edit/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/grid/overview/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/grid/paging/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/grid/print/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/grid/reactive-aggregate/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/grid/remote-data/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/grid/reorder/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/grid/row-height/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/grid/row-spanning/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/grid/row-template/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/grid/scrolling/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/grid/searching/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/grid/selection-api/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/grid/selection/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/grid/show-hide/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/grid/sorting/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/grid/stacked-header/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/grid/template-driven-form/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/grid/virtualization/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/heatmap-chart/array-cell/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/heatmap-chart/array-row/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/heatmap-chart/bubble-types/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/heatmap-chart/calendar-heatmap/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/heatmap-chart/cell-json-binding/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/heatmap-chart/cell-selection/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/heatmap-chart/color-and-size-attributes/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/heatmap-chart/color-range/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/heatmap-chart/default/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/heatmap-chart/empty-points/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/heatmap-chart/inversed/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/heatmap-chart/large-data/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/heatmap-chart/legend/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/heatmap-chart/multi-level-labels/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/heatmap-chart/opposed/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/heatmap-chart/palette/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/heatmap-chart/render-mode/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/heatmap-chart/row-json-binding/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/heatmap-chart/tooltip-template/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/inplace-editor/default/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/inplace-editor/dropdowns/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/inplace-editor/form/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/inplace-editor/pickers/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/kanban/api/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/kanban/card-template/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/kanban/default/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/kanban/dialog-editing/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/kanban/events/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/kanban/header-template/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/kanban/local-data/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/kanban/overview/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/kanban/remote-data/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/kanban/search-filter/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/kanban/show-hide/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/kanban/sorting/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/kanban/stacked-header/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/kanban/swimlane-template/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/kanban/swimlane/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/kanban/toggle-columns/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/kanban/tooltip-template/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/kanban/wip-validation/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/linear-gauge/annotation/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/linear-gauge/axes/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/linear-gauge/container/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/linear-gauge/data/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/linear-gauge/default/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/linear-gauge/export/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/linear-gauge/gradient-color/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/linear-gauge/ranges/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/linear-gauge/style/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/linear-gauge/tooltip/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/list-box/api/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/list-box/checkbox/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/list-box/default/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/list-box/drag-and-drop/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/list-box/dual-list-box/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/listview/call-history/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/listview/checklist/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/listview/default/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/listview/group-template/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/listview/nested-list/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/listview/remote-list/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/listview/template/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/listview/virtualization/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/maps/annotation/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/maps/bubble/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/maps/clusteringmarker/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/maps/color-mapping/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/maps/curved-lines/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/maps/cyber-attack-map/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/maps/default/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/maps/drilldown/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/maps/dynamicmarker/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/maps/earthquake/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/maps/export/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/maps/heatmap/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/maps/highlight/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/maps/labels/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/maps/legend/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/maps/map-with-slider/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/maps/marker-template/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/maps/marker/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/maps/multilayer/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/maps/navigation-lines/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/maps/osm-with-navigation-lines/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/maps/osm-with-sublayers/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/maps/osm/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/maps/pie/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/maps/print/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/maps/programmatic-zoom/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/maps/projection/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/maps/sales-map/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/maps/seat-selection/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/maps/selection/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/maps/tooltip/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/maps/zooming/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/maskedtextbox/custom-mask/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/maskedtextbox/default/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/maskedtextbox/formats/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/menu/api/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/menu/data-binding/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/menu/default/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/menu/hamburger-mode/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/menu/scrollable/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/menu/template/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/menu/toolbar-integration/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/multi-select/checkbox/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/multi-select/chip-customization/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/multi-select/custom-value/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/multi-select/data-binding/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/multi-select/default/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/multi-select/diacritics-filtering/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/multi-select/filtering/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/multi-select/grouping-with-checkbox/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/multi-select/grouping/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/multi-select/reactive-form/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/multi-select/selection-limit/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/multi-select/template-driven/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/multi-select/template/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/numerictextbox/custom-format/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/numerictextbox/default/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/numerictextbox/range-validation/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/numerictextbox/restrict-decimals/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/pdfviewer/custom-toolbar/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/pdfviewer/default/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/pdfviewer/form-filling/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/pdfviewer/right-to-left/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/pivot-table/aggregation/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/pivot-table/calculated-field/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/pivot-table/cell-template/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/pivot-table/conditional-formatting/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/pivot-table/default/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/pivot-table/defer-update/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/pivot-table/drill-through/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/pivot-table/editing/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/pivot-table/exporting/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/pivot-table/external-binding/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/pivot-table/field-list/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/pivot-table/filtering/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/pivot-table/grouping-bar/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/pivot-table/grouping/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/pivot-table/hyper-link/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/pivot-table/label-filtering/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/pivot-table/local/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/pivot-table/olap/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/pivot-table/pivot-chart/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/pivot-table/remote/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/pivot-table/right-to-left/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/pivot-table/selection/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/pivot-table/sorting/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/pivot-table/summary-customization/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/pivot-table/toolbar/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/pivot-table/value-filtering/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/pivot-table/value-sorting/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/pivot-table/virtual-scrolling/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/progress-bar/custom-content/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/progress-bar/default/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/progress-bar/labels/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/progress-bar/Linear/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/progress-bar/progress-segment/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/progress-bar/Radius/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/progress-bar/semi-Circle/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/progress-bar/stripes/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/query-builder/default/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/query-builder/grid/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/query-builder/template/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/range-navigator/date-time/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/range-navigator/default/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/range-navigator/double/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/range-navigator/emptydata/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/range-navigator/export/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/range-navigator/filter/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/range-navigator/light-weight/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/range-navigator/logarithmic/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/range-navigator/multilevel/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/range-navigator/period-default/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/range-navigator/rtl/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/range-navigator/stock-chart/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/rich-text-editor/ajax-load/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/rich-text-editor/api/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/rich-text-editor/auto-save/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/rich-text-editor/blog-posting/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/rich-text-editor/client-side-events/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/rich-text-editor/iframe/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/rich-text-editor/image/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/rich-text-editor/inline/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/rich-text-editor/insert-emoticons/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/rich-text-editor/insert-special-characters/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/rich-text-editor/markdown-editor-custom-format/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/rich-text-editor/markdown-editor-preview/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/rich-text-editor/markdown-editor/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/rich-text-editor/paste-cleanup/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/rich-text-editor/print/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/rich-text-editor/reactive-form/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/rich-text-editor/resize-editor/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/rich-text-editor/rich-text-editor/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/rich-text-editor/template-driven/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/rich-text-editor/tools/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/rich-text-editor/tribute/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/rich-text-editor/types/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/schedule/adaptive-rows/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/schedule/add-remove-resources/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/schedule/agenda/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/schedule/block-events/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/schedule/calendar-export-import/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/schedule/calendar-integration/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/schedule/cell-dimension/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/schedule/cell-template/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/schedule/context-menu/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/schedule/date-header-template/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/schedule/default/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/schedule/editor-custom-field/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/schedule/editor-template/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/schedule/editor-validation/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/schedule/events-template/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/schedule/events/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/schedule/excel-export/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/schedule/extended-views/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/schedule/external-drag-drop/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/schedule/group-by-child/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/schedule/group-by-date/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/schedule/group-custom-work-days/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/schedule/group-editing/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/schedule/header-bar/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/schedule/header-rows/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/schedule/hide-weekend/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/schedule/inline-editing/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/schedule/keyboard-interaction/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/schedule/local-data/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/schedule/month-agenda/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/schedule/print/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/schedule/quick-info-template/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/schedule/read-only/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/schedule/recurrence-editor-generate-rule/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/schedule/recurrence-editor-populate-rule/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/schedule/recurrence-events/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/schedule/remote-data/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/schedule/resource-grouping/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/schedule/resource/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/schedule/resources/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/schedule/scroll-to/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/schedule/search-events/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/schedule/start-end-hour/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/schedule/time-scale/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/schedule/timeline-resource-grouping/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/schedule/timeline-resource/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/schedule/timeline/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/schedule/timezone-event/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/schedule/tooltip/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/schedule/view-configuration/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/schedule/views/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/schedule/virtual-scrolling/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/schedule/work-days/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/schedule/work-hours/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/schedule/year/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/sidebar/api/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/sidebar/default/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/sidebar/docking-sidebar/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/sidebar/responsive-panel/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/sidebar/sidebar-list/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/sidebar/sidebar-menu/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/slider/api/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/slider/azure-pricing/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/slider/default/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/slider/events/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/slider/format/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/slider/limits/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/slider/orientation/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/slider/selection-bar-customization/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/slider/thumb-customization/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/slider/ticks-customization/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/slider/ticks/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/slider/tooltip-customization/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/slider/tooltip/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/smith-chart/custom/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/smith-chart/default/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/smith-chart/print-export/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/sparkline/axis-type/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/sparkline/customization/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/sparkline/default/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/sparkline/live-update/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/sparkline/range-band/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/sparkline/series-type/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/sparkline/sparkline-grid/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/splitter/accordion-navigation-menu/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/splitter/code-editor-layout/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/splitter/default/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/splitter/details-view/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/splitter/expand-and-collapse/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/splitter/outlook-style-layout/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/spreadsheet/cell-data-binding/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/spreadsheet/cell-formatting/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/spreadsheet/cell-template/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/spreadsheet/conditional-formatting/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/spreadsheet/default/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/spreadsheet/formula/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/spreadsheet/number-formatting/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/spreadsheet/protect-sheet/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/spreadsheet/remote-data-binding/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/spreadsheet/sorting-and-filtering/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/stock-chart/area/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/stock-chart/default/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/stock-chart/disabled-navigator/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/stock-chart/disabled-period/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/stock-chart/inversed-area/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/stock-chart/multi-pane/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/stock-chart/multiple-series/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/stock-chart/ohlc/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/stock-chart/period-customization/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/stock-chart/plot-line/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/stock-chart/spline-area/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/stock-chart/spline/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/stock-chart/stock-events/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/stock-chart/strip-line/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/tab/default/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/tab/orientation/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/tab/responsive-modes/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/tab/wizard/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/textboxes/default/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/textboxes/multiline-textbox/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/textboxes/reactive-forms/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/textboxes/template-driven-forms/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/timepicker/default/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/timepicker/list-formatting/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/timepicker/reactiveform/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/timepicker/time-format/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/timepicker/time-range/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/toast/api/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/toast/default/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/toast/positions/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/toast/template/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/toast/types/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/toolbar/alignment/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/toolbar/default/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/toolbar/popup/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/tooltip/ajax-content/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/tooltip/api/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/tooltip/default/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/tooltip/html-content/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/tooltip/smart-position/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/tooltip/template/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/tooltip/tooltip-menu/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/treegrid/autowrap/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/treegrid/batchediting/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/treegrid/cellalignment/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/treegrid/celledit-type/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/treegrid/checkbox-column/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/treegrid/checkbox-selection/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/treegrid/clipboard/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/treegrid/columnchooser/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/treegrid/columnformatting/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/treegrid/columnmenu/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/treegrid/columntemplate/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/treegrid/commandcolumn/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/treegrid/conditionalformatting/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/treegrid/contextmenu-default/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/treegrid/custom-aggregate/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/treegrid/custom-contextmenu/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/treegrid/default-aggregate/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/treegrid/default-paging/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/treegrid/default-scrolling/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/treegrid/default/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/treegrid/dialogediting/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/treegrid/drag-drop/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/treegrid/edittemplate/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/treegrid/events/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/treegrid/exporting-default/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/treegrid/filter/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/treegrid/filtermenu/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/treegrid/frozen-column/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/treegrid/gridlines/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/treegrid/inlineediting/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/treegrid/keyboard/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/treegrid/localdata/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/treegrid/lockrow/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/treegrid/paging-api/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/treegrid/print/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/treegrid/reactiveforms/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/treegrid/remotedata/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/treegrid/reorder/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/treegrid/resizing/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/treegrid/row-hover/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/treegrid/row-template/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/treegrid/rowheight/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/treegrid/search/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/treegrid/selection-api/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/treegrid/selection/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/treegrid/selfreference/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/treegrid/showhide/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/treegrid/sorting/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/treegrid/sortingapi/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/treegrid/stackedheader/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/treegrid/templateforms/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/treegrid/toolbartemplate/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/treegrid/treegrid-overview/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/treegrid/virtual-scrolling/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/treemap/color-mapping/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/treemap/custom/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/treemap/default/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/treemap/drilldown/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/treemap/label/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/treemap/layout/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/treemap/legend/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/treemap/pie/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/treemap/print/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/treemap/rtl/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/treemap/selection/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/treemap/tooltip/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/treeview/default/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/treeview/drag-and-drop/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/treeview/icons/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/treeview/multiple-selection/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/treeview/node-editing/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/treeview/plain-data/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/treeview/remote-data/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/treeview/template/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/treeview/treeview-checkbox/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/uploader/chunk-upload/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/uploader/custom-drop-area/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/uploader/custom-file-list/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/uploader/default/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/uploader/file-upload-with-reactive-forms/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/uploader/file-upload-with-template-driven-forms/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/uploader/file-validation/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/uploader/image-preview/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+   <url>
+   <loc>https://ej2.syncfusion.com/angular/demos/uploader/preload-files/</loc>
+   <lastmod>2020-06-29</lastmod>
+   </url>
+  
+  </urlset>
