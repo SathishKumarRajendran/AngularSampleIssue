@@ -92,7 +92,6 @@
     "tslib": "^2.0.0",
     "tslint": "4.0.2",
     "tslint-microsoft-contrib": "^4.0.0",
-    "typescript": "2.6.2",
     "typo-js": "^1.0.1",
     "uglifyjs-webpack-plugin": "*",
     "webpack": "^4.16.1",
