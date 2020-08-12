@@ -1,5 +1,4 @@
-import { gridRouteConfig } from '../grid/grid.module';
-import { dropdownlistAppRoutes } from '../drop-down-list/drop-down-list.module';
+import { gridRouteConfig } from '../grid/grid.module';x
 
 
 export let samplesList: any = [
