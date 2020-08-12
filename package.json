@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
-    "start": "node_modules/.bin/ng serve --source-map=false",
+    "start": "node --max-old-space-size=8192 ./node_modules/@angular/cli/bin/ng serve",
     "build:prod": "node --max-old-space-size=8192 ./node_modules/@angular/cli/bin/ng build --prod --aot --source-map=false --vendor-chunk=true --output-hashing none",
     "test": "ng test",
     "lint": "ng lint",
